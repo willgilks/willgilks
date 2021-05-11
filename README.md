@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on Rshiny apps in aviation data, text analysis, covid, heirachical clustering
 - 🌱 Currently learning Github, Rshiny modularisation and unit testing
 - 👯 I’m looking to collaborate on Rshiny apps, data mining, implementing mathematical models in Rshiny apps.
-- 🤔 Looking for help with Logistic regression, any machine learning.
+- 🤔 Looking for help with any machine learning.
 - 💬 Ask me about Rshiny, ggplot, tidyverse, apply and purrr functions.
 - 📫 How to reach me: wpgilks@gmail.com
 
