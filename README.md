@@ -11,3 +11,5 @@
 - 🤔 Looking for help with Logistic regression, any machine learning.
 - 💬 Ask me about Rshiny, ggplot, tidyverse, apply and purrr functions.
 - 📫 How to reach me: wpgilks@gmail.com
+
+Page made following https://pages.github.com/
