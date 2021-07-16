@@ -1,4 +1,4 @@
-🔭 Rshiny apps for data analysis
+🔭 Rshiny apps for data analysis 
 🌱 Forecasting
 👯 Forecasting
 🤔 Forecasting
